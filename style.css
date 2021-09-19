@@ -1,0 +1,82 @@
+.main-text {
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.form_position {
+    display: flex;
+    justify-content: center;
+}
+
+
+.tittle_name {
+    font-family: Grechen Fuemen;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 60px;
+    margin: 0;
+}
+form {
+    width: 300px;
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px #ccc;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+.form_grup {
+    position: relative;
+    margin-bottom: 32px;
+}
+.form_input {
+    width: 100%;
+    padding: 0 0 10px 0;
+    border: none;
+    border-bottom: 1px solid #e0e0e0;
+    background-color: transparent;
+    outline: none;
+    transition: 0.3s;
+}
+.form_label {
+    color: #9e9e9e;
+    transition: 0.3s;
+}
+.form_button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 16xp;
+    color: #fff;
+    background-color: #0071f0;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+.end-list {
+    text-align: center;
+    margin-top: 100px;
+}
+.button {
+    width: 300px;
+    color: black;
+    background-color: black;
+    padding: 30px 30px 30px 30px;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none; color:white;
+}
+a :hover{
+    text-decoration: #e0e0e0;
+}
+h1{
+    font-family: Grechen Fuemen;
+}
+body{
+    background-color:;
+}
